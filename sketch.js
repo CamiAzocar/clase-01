@@ -2,7 +2,7 @@ var a = 50;
 var b = 80
 var c;
 function setup() {
-  createCanvas(windowWidth, windowHeith);
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
